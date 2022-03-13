@@ -1,0 +1,19 @@
+{
+  "name": "be-node",
+  "version": "1.0.0",
+  "description": "api dengan express js",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Javascript"
+  ],
+  "author": "Asrul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
